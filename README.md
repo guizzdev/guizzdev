@@ -10,5 +10,6 @@ def stats(user):
 
         languages = ['python']
         environment = 'vscode'
+    
     return name, age, discord, languages, environment
 ```
